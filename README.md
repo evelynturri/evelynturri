@@ -13,11 +13,8 @@ In my Github you can find my personal and University projects 💻
 
 
 ## Github Stats 📊 
-<a href='https://github.com/evelynturri/github-stats-transparent'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynturri&layout=compact)](https://github.com/evelynturri)
 
-![Most Used Languages](https://raw.githubusercontent.com/evelynturri/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 ## Languages and Tools 🔨
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
