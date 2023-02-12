@@ -24,6 +24,7 @@ In my Github you can find my personal and University projects 💻
 <a href="https://jupyter.org/" target="_blank"><img align="left" alt="Jupiter" height ="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></a>
 <a href="https://colab.research.google.com/" target="_blank"><img align="left" alt="Colab" height ="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vsCode" height ="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+<a href="https://unity.com/" target="_blank"><img align="left" alt="Unity" height ="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></a>
 
 
 
