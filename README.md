@@ -1,11 +1,9 @@
-# Hi everyone 👋
+# Hi everyone 🌸
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelynturri/)
-
-My name is Evelyn and here you can find something more about me: 
-- 📚 &nbsp; I'm a MSc. Student in **AI** and **Computer Vision** at UniTN
-- 🌱 &nbsp; I’m currently learning more about Deep Learning applications in Computer Vision
-- 🎓 &nbsp; I did my Bachelor in Mathematics at UniTN
+I’m Evelyn! Welcome to my GitHub profile. Here’s a little about me:
+- 📖 &nbsp; First year PhD Student in **DL** and **Computer Vision** @ AImageLab, Unimore
+- ✨ &nbsp; Exploring the **3D Vision** and **Multimodal Learning** fields
+- 🎓 &nbsp; MSc. in **AI** and **Computer Vision** @ UniTN
 
 In my Github you can find my personal and University projects 💻
 
