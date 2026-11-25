@@ -1,11 +1,11 @@
 # Hi everyone 🌸
 
 I’m Evelyn! Welcome to my GitHub profile. Here’s a little about me:
-- 📖 &nbsp; Second year PhD Student in **DL** and **Computer Vision** @ AImageLab, Unimore
-- ✨ &nbsp; Playing with **Image Generation** and **Diffusion Models**
+- 📖 &nbsp; PhD Candidate in **Generative AI** @ AImageLab, Unimore
+- ✨ &nbsp; Playing with **Image and Video Generation** using **Diffusion Models**
 - 🎓 &nbsp; MSc. in **AI** and **Computer Vision** @ UniTN
 
-In my Github you can find my personal and University projects 💻
+In my Github you can find my personal and PhD projects 💻
 
 
 
